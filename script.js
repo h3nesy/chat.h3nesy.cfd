@@ -1,10 +1,10 @@
 var config = {
-    apiKey: "AIzaSyDVgPfw2XjnC5HaFgSBmXuTQwSMdng_t_A",
-    authDomain: "stromez-ed239.firebaseapp.com",
+    apiKey: "AIzaSyBuTscL9uSV0dLVa5dyoSHe57ha4Gx5344",
+    authDomain: "delta-c7ad5.firebaseapp.com",
     databaseURL: "https://stromez-ed239-default-rtdb.asia-southeast1.firebasedatabase.app",
-    projectId: "stromez-ed239",
-    storageBucket: "stromez-ed239.appspot.com",
-    messagingSenderId: "163917711894",
+    projectId: "delta-c7ad5",
+    storageBucket: "delta-c7ad5.appspot.com",
+    messagingSenderId: "843866922467",
 };
 firebase.initializeApp(config);
 const database = firebase.database();
